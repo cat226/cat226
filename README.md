@@ -1,409 +1,166 @@
-<!-- ===================== HEADER ===================== -->
+<div align="center">
+  <img src="./assets/verona-banner.jpeg" width="100%" alt="Verona Ann Mariya">
+  
+  <br><br>
 
-<p align="center">
-  <img
-    src="./assets/verona-banner.jpeg"
-    width="100%"
-    alt="Verona Ann Mariya"
-  />
-</p>
+  <h1>VERONA ANN MARIYA</h1>
+  <h3>Software Engineer · AI/ML · Systems</h3>
+
+  <p>Building intelligent software systems across AI, backend engineering, enterprise technology & sustainability.</p>
+
+  <p>
+    <a href="https://github.com/cat226">
+      <img src="https://img.shields.io/badge/GitHub-0A192F?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+    </a>
+    <a href="https://linkedin.com/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A192F?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="mailto:your.email@example.com">
+      <img src="https://img.shields.io/badge/Email-0A192F?style=flat-square&logo=minutemailer&logoColor=white" alt="Email">
+    </a>
+  </p>
+</div>
+
+---
+
+## ⟨ / ⟩ About & Current Focus
+
+Computer Science undergraduate at VIT Chennai building software systems across AI/ML, backend engineering, and enterprise technology. I enjoy problems where the engineering underneath the interface matters: compiler-oriented modernization, AI pipelines, distributed systems, automation, and climate-tech.
+
+- **🎓 Education:** B.Tech Computer Science & Engineering @ VIT Chennai (Expected 2028)
+- **💼 Current Role:** Software Development Intern @ Altruisty Innovation
+- **🔬 Research:** Samsung PRISM Researcher
+- **🌐 Community:** IBM Z Student Ambassador
 
 <br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&duration=3000&pause=1000&color=4F8CFF&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+AI%2FML+%7C+Systems;Building+intelligent+software+systems;AI+%C3%97+Engineering+%C3%97+Real-world+Impact" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="25%"><b>💻 Software Engineering</b><br>Full-Stack & Cloud</td>
+      <td align="center" width="25%"><b>🧠 AI / ML</b><br>Pipelines & Diagnostics</td>
+      <td align="center" width="25%"><b>⚙️ Systems / Enterprise</b><br>Mainframe Modernization</td>
+      <td align="center" width="25%"><b>🌱 Climate Tech</b><br>IoT & Sustainability</td>
+    </tr>
+  </table>
+</div>
 
-<p align="center">
-  <a href="https://github.com/cat226">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/verona-ann-mariya-4a520b321/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:veronamariya2006@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+---
+
+## ⚙️ Featured Systems
+
+### AI-Powered Mainframe Modernization Assistant
+> **Compiler-oriented legacy modernization pipeline translating COBOL to Java.**
+
+![Python](https://img.shields.io/badge/Python-0A192F?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005C8A?style=flat-square&logo=fastapi&logoColor=white)
+![COBOL/JCL](https://img.shields.io/badge/COBOL_/_JCL-0A192F?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-005C8A?style=flat-square)
+
+- Engineered a structured program analysis tool utilizing lexical analysis, parsing, and AST construction.
+- Handled complex COBOL control flows (MOVE, DISPLAY, PERFORM, IF, EVALUATE) by mapping them to stable Java equivalents.
+- Implemented deterministic golden-output testing, compiler-level checks, and safe stubs for unresolved targets.
+- **Differentiator:** Built as a strict semantic translation engine, prioritizing structural validation over standard LLM wrappers.
 
 <br>
 
----
+### [EcoTrace India](https://github.com/cat226/ecoTrace-backend)
+> **Blockchain-backed environmental impact monitoring and e-waste traceability platform.**
 
-<!-- ===================== INTRO ===================== -->
+![React](https://img.shields.io/badge/React-0A192F?style=flat-square&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-005C8A?style=flat-square&logo=nodedotjs&logoColor=white)
+![Hyperledger](https://img.shields.io/badge/Hyperledger-0A192F?style=flat-square&logo=hyperledger&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-005C8A?style=flat-square&logo=docker&logoColor=white)
 
-<table>
-<tr>
-<td width="60%" valign="top">
-
-## Hi, I'm Verona.
-
-Computer Science undergraduate at **VIT Chennai** building at the intersection of:
-
-**Software Engineering · AI/ML · Systems**
-
-I like working on problems where the engineering underneath the
-interface matters — backend systems, AI pipelines, automation,
-enterprise software and reliable infrastructure.
-
-Currently exploring **AI Engineering, Agentic Systems, System Design,
-Distributed Systems and Mainframe Modernization.**
-
-</td>
-
-<td width="40%" valign="top">
-
-### `CURRENTLY`
-
-🎓 **VIT Chennai**  
-B.Tech CSE · 2028
-
-🧠 **Samsung PRISM**  
-Researcher
-
-🖥️ **IBM Z**  
-Student Ambassador
-
-⚡ **Altruisty Innovation**  
-Software Development Intern
-
-🌱 **YDCT Global Summit**  
-2026 Finalist
-
-</td>
-</tr>
-</table>
+- Architected a multi-stakeholder ecosystem managing lifecycle tracking for manufacturers, consumers, and regulators.
+- Acquired and governed an AI dataset (19-class e-waste detection, Open Images V7) implementing automated validation and duplicate detection.
+- Enforced strict release governance including provenance-preserving manifests, visual review, and annotation remediation.
+- **Recognition:** IEEE YESIST12 International Finalist
 
 <br>
 
----
+### [Solar AI Framework](https://github.com/cat226/solar-ai-framework)
+> **Machine learning architecture for automated solar panel diagnostics and predictive maintenance.**
 
-# `01` — WHAT I BUILD
+![Python](https://img.shields.io/badge/Python-0A192F?style=flat-square&logo=python&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-005C8A?style=flat-square)
+![XGBoost](https://img.shields.io/badge/XGBoost-0A192F?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-005C8A?style=flat-square&logo=streamlit&logoColor=white)
 
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### ⚙️ AI & Software Systems
-
-Building AI-powered applications and engineering infrastructure with a
-focus on **reliability, automation and maintainability**.
-
-`Python` `FastAPI` `Node.js` `React`
-
-`LangChain` `Docker` `CI/CD`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🖥️ Enterprise & Systems
-
-Exploring how modern engineering can work with large-scale and legacy
-enterprise environments.
-
-`IBM Z` `z/OS` `COBOL` `JCL`
-
-`Compilers` `DB2` `Cloud`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🧠 Machine Learning
-
-Researching and implementing ML systems across healthcare,
-classification and predictive analytics.
-
-`XGBoost` `LightGBM` `CatBoost`
-
-`DQN` `CQL` `FQI` `SHAP`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🌍 Technology for Impact
-
-Interested in applying engineering to sustainability, climate
-technology and environmental monitoring.
-
-`IoT` `AI` `Blockchain` `Cloud`
-
-</td>
-
-</tr>
-</table>
+- Developed an ML-driven architecture utilizing YOLO, MobileNet, and XGBoost for fault identification in solar infrastructure.
+- Designed automated testing, validation pipelines, and backend maintenance workflows.
 
 <br>
 
----
+### AeroGuardians
+> **Cloud-connected distributed IoT sensing network for industrial climate-tech.**
 
-# `02` — FEATURED WORK
+![IoT](https://img.shields.io/badge/IoT-0A192F?style=flat-square)
+![MongoDB](https://img.shields.io/badge/MongoDB-005C8A?style=flat-square&logo=mongodb&logoColor=white)
+![Cloud_Analytics](https://img.shields.io/badge/Cloud_Analytics-0A192F?style=flat-square)
 
-### `01` · AI-POWERED MAINFRAME MODERNIZATION
-
-**COBOL → Java · Compiler-oriented modernization**
-
-A modernization pipeline spanning lexical analysis, parsing, AST
-construction, semantic validation, intermediate representation and
-Java code generation.
-
-**Built with**
-
-`Python` `FastAPI` `COBOL` `JCL` `Tree-sitter` `LangChain` `ChromaDB`
-
-**Engineering focus**
-
-`AST` · `IR` · `Control Flow` · `CALL/PERFORM` · `Diagnostics` · `Regression Testing`
-
-> Modernizing legacy systems through structured program analysis rather
-> than treating source code as plain text.
+- Deployed sensor-driven environmental monitoring utilizing distributed nodes and real-time cloud analytics.
+- Integrated AI-driven anomaly detection for fire-risk and low-moisture conditions with automated scrubber control.
+- **Recognition:** YDCT Global Summit 2026 Finalist
 
 ---
 
-### `02` · ECOTRACE INDIA
+## 🔬 Research Output
 
-**Blockchain-backed e-waste traceability platform**
+**Sepsis Treatment Optimization using Offline Reinforcement Learning** | *Manuscript in preparation*
+- Modeled clinical decision-making via Markov Decision Processes utilizing FQI, DQN, and CQL algorithms.
+- Processed 9,632 patient records across MIMIC-III and eICU datasets.
+- Evaluated vitals, laboratory values, fluids, and vasopressors to measure clinical policy agreement.
 
-A multi-stakeholder platform connecting manufacturers, consumers,
-collectors, recyclers and regulators through role-based workflows.
-
-**Built with**
-
-`React` `Flutter` `Node.js` `PostgreSQL` `Prisma`
-
-`Hyperledger Fabric` `Python` `Docker`
-
-**Highlights**
-
-- 19-class e-waste detection dataset pipeline
-- Automated annotation validation
-- Duplicate detection
-- Provenance-preserving manifests
-- Dataset QA and release governance
-
-🏆 **IEEE YESIST12 International Finalist**
+**Gradient Boosting Ensemble for Diabetic Complication Prediction** | *Under Review — IC3DCM 2026, Springer LNCS*
+- Engineered robust predictive models employing XGBoost, LightGBM, and CatBoost with SMOTE for class balancing.
+- Conducted SHAP ablation analysis to establish clinical validity, evaluating baseline comparisons via cross-validated AUC.
 
 ---
 
-### `03` · SOLAR AI FRAMEWORK
+## 🛠 Engineering Stack
 
-**AI-powered solar diagnostics & predictive maintenance**
+- **Languages:** `Python` `Java` `C` `JavaScript` `SQL` `Dart`
+- **Core Engineering:** `Data Structures & Algorithms` `OOP` `REST APIs` `CI/CD` `Git / GitHub` `Automated Testing`
+- **Frontend & Backend:** `React.js` `Node.js` `Express.js` `FastAPI` `Flutter` `Tailwind CSS`
+- **AI & Data Science:** `XGBoost` `LightGBM` `Scikit-learn` `NumPy` `Pandas` `OpenCV` `LangChain`
+- **Databases:** `PostgreSQL` `MongoDB` `IBM DB2`
+- **Cloud & DevOps:** `GCP` `Docker` `GitHub Actions` `IBM Cloud Code Engine`
+- **Enterprise & Platforms:** `IBM Z` `z/OS` `COBOL` `JCL` `Zowe CLI` `watsonx.ai` `IBM Granite` `ChromaDB` `OpenAI Whisper`
 
-Developing an AI platform for monitoring, fault identification,
-predictive analysis and maintenance of campus solar infrastructure.
+---
 
-**Built with**
+## 💼 Professional Experience
 
-`Python` `YOLO` `MobileNet` `XGBoost` `Streamlit`
+**Software Development Intern** | *Altruisty Innovation* | 2026
+- Architected a modular React-based team portfolio application emphasizing scalable state management and REST API integrations.
+- Owned the Whisper Speech-to-Text module for NovaLearn AI, bridging OpenAI Whisper with FastAPI alongside React/Flutter voice interfaces.
+- Managed engineering workflows utilizing Scrum, Kanban, feature branches, and rigorous pull request code reviews.
+
+**YDCT Mentorship Program** | *Sustainable Living Labs* | 2025 – 2026
+- Built distributed IoT architectures and time-series data storage systems using MongoDB.
+- Implemented logic for automated scrubber control and localized anomaly detection models.
 
 ---
 
-### `04` · AEROGUARDIANS
+## 🏆 Signal & Recognition
 
-**IoT + AI · Climate Technology**
-
-Environmental monitoring system combining distributed sensing,
-cloud analytics, anomaly detection and automated control.
-
-🏆 **YDCT Global Summit 2026 Finalist**
+- **Samsung PRISM Researcher**
+- **IBM Z Student Ambassador**
+- **YDCT Global Summit 2026 Finalist** *(Team AeroGuardians)*
+- **IEEE YESIST12 International Finalist** *(EcoTrace India)*
+- **Kotak Kanya Scholarship Recipient**
 
 ---
+
+## 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cat226&show_icons=true&theme=transparent&hide_border=true&title_color=0A192F&icon_color=005C8A&text_color=333333" width="48%" alt="Verona's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cat226&theme=transparent&hide_border=true&title_color=0A192F&ring=0A192F&fire=005C8A&currStreakNum=0A192F" width="48%" alt="Verona's GitHub Streak" />
+</div>
 
 <br>
-
----
-
-# `03` — RESEARCH
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Offline RL for Sepsis Treatment
-
-Benchmarked **FQI, DQN and CQL** for ICU treatment policy optimization
-across **9,632 patient records** from MIMIC-III and eICU.
-
-`FQI` `DQN` `CQL` `WIS` `ESS`
-
-**Manuscript in preparation**
-
-</td>
-
-<td width="50%" valign="top">
-
-### Gradient Boosting Ensemble
-
-Stacking ensemble using **XGBoost, LightGBM and CatBoost** for
-multi-class diabetic complication classification.
-
-`SMOTE` `SHAP` `Cross-validation`
-
-**IC3DCM 2026 · Springer LNCS · Under Review**
-
-</td>
-</tr>
-</table>
-
-<br>
-
----
-
-# `04` — TECH STACK
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,js,dart,react,nodejs,express,fastapi,postgres,mongodb,docker,gcp,git,github&perline=8" />
-</p>
-
-<br>
-
-<p align="center">
-
-**AI / ML**
-
-`Scikit-learn` · `XGBoost` · `LightGBM` · `CatBoost` · `SHAP`
-· `NumPy` · `Pandas` · `OpenCV` · `LangChain`
-
-**Enterprise**
-
-`IBM Z` · `z/OS` · `COBOL` · `JCL` · `IBM DB2` · `Zowe CLI`
-
-**AI Platforms**
-
-`watsonx.ai` · `IBM Granite` · `ChromaDB` · `OpenAI Whisper`
-
-</p>
-
-<br>
-
----
-
-# `05` — EXPERIENCE
-
-<table>
-<tr>
-<td width="70%" valign="top">
-
-### Software Development Intern
-**Altruisty Innovation · 2026**
-
-React-based application development and AI-powered product engineering.
-
-Worked on modular frontend architecture and owned the **Whisper
-Speech-to-Text module** for NovaLearn AI using FastAPI, React and Flutter.
-
-</td>
-
-<td width="30%" valign="top">
-
-`React`
-
-`FastAPI`
-
-`Flutter`
-
-`Whisper`
-
-`REST`
-
-`CI/CD`
-
-</td>
-</tr>
-
-<tr>
-<td width="70%" valign="top">
-
-### YDCT Mentorship Program
-**Sustainable Living Labs · 2025–2026**
-
-Built sensor-driven environmental monitoring infrastructure using
-distributed IoT nodes and MongoDB, with anomaly detection for
-fire-risk and low-moisture conditions.
-
-</td>
-
-<td width="30%" valign="top">
-
-`IoT`
-
-`MongoDB`
-
-`AI`
-
-`Anomaly Detection`
-
-`Cloud`
-
-</td>
-</tr>
-</table>
-
-<br>
-
----
-
-# `06` — ACHIEVEMENTS
-
-<p align="center">
-
-`SAMSUNG PRISM` &nbsp; · &nbsp;
-`IBM Z STUDENT AMBASSADOR` &nbsp; · &nbsp;
-`YDCT GLOBAL FINALIST`
-
-<br><br>
-
-`IEEE YESIST12 INTERNATIONAL FINALIST`
-&nbsp; · &nbsp;
-`SPRINGER LNCS`
-&nbsp; · &nbsp;
-`KOTAK KANYA SCHOLAR`
-
-</p>
-
-<br>
-
----
-
-# `07` — GITHUB
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=cat226&show_icons=true&hide_border=true&theme=transparent"
-    height="165"
-  />
-  &nbsp;&nbsp;
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=cat226&hide_border=true&theme=transparent"
-    height="165"
-  />
-</p>
-
-<br>
-
----
-
-<p align="center">
-
-### `AI × ENGINEERING × SYSTEMS`
-
-<sub>
-Learning continuously. Building deliberately. Shipping things that matter.
-</sub>
-
-<br><br>
-
-<a href="mailto:veronamariya2006@gmail.com">
-  Let's build something interesting.
-</a>
-
-</p>
+<div align="center">
+  <i>Designed for performance, built for scale.</i>
+</div>
