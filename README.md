@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Verona Ann Mariya — Software Engineering · AI/ML · Systems" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,100:0EA5E9&height=200&section=header&text=Verona%20Ann%20Mariya&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20%C2%B7%20AI%2FML%20%C2%B7%20Systems&descSize=18&descAlignY=58" width="100%" alt="Verona Ann Mariya" />
 
 <a href="https://github.com/cat226">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=640&lines=Building+intelligent+software+systems;AI+%C2%B7+Backend+%C2%B7+Enterprise+Tech+%C2%B7+Sustainability;COBOL+%E2%86%92+Java+modernization+via+real+compiler+techniques;IEEE+YESIST12+International+Finalist" alt="Typing intro" />
